@@ -1,0 +1,9 @@
+h1. Ruby Workspaces
+
+Essentially, this is an implementation of Smalltalk Workspaces for Ruby. 
+
+A Ruby Workspace is a simple text editor. You can mix text and Ruby code, save and load files etc. Select Ruby code and right click to execute it in various ways. 
+
+It's a very useable alternative to IRB.
+
+Enjoy!
